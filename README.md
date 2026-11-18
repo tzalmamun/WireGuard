@@ -172,6 +172,11 @@ docker compose ps
 
 ## ক্লায়েন্টে ব্যবহার
 
+## Android Any Phone 
+
+https://github.com/tzalmamun/WireGuard/releases/download/App/TZ.VPN_1.0.apk
+
+
 ### Android / iPhone
 1. Play Store / App Store থেকে **WireGuard** অ্যাপ নিন।
 2. অ্যাপে **+** চেপে **Scan from QR code** দিয়ে প্যানেলের QR স্ক্যান করুন (বা `.conf` ফাইল ইমপোর্ট করুন)।
