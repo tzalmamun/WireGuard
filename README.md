@@ -35,6 +35,12 @@
 ```
 ssh root@VPS_IP
 ```
+
+অথবা Spaceship 
+```
+ssh -p 22022 root@VPS_IP
+```
+
 3. প্রথমবার `Are you sure you want to continue connecting (yes/no)?` আসবে। `yes` লিখে Enter দিন।
 4. **Password** চাইলে পাসওয়ার্ড টাইপ বা পেস্ট করুন। টাইপ করার সময় স্ক্রিনে কিছুই দেখা যায় না, এটাই নিয়ম। শেষে Enter চাপুন।
 5. `root@...:~#` দেখা গেলে ঢুকে গেছেন।
